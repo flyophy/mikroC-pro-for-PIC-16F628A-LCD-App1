@@ -1,1 +1,1 @@
-# mikroC-pro-for-PIC-LCD-App1
+# mikroC-pro-for-PIC-16F628A-LCD-App1
